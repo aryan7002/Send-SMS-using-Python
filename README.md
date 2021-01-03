@@ -1,4 +1,5 @@
 # Send-SMS-using-Python
+(This python project helps to send otp or an message to the given or specfic phone number )
 this is only single python file , if you want to run this project you need to create a new project
 then you need a module name requests download it using pip install in terminal 
 i have us tkinter for simple gui
